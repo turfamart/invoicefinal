@@ -14,7 +14,7 @@
     </head>
     <body>
         <div id="app">
-
+            <h1>This is Git Test</h1>
         </div>
         <script src="{{ asset('js/app.js') }}" defer></script>
  
